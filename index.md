@@ -79,7 +79,7 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 This policy is effective as of 2022-03-17
 
-### Contact Us
+### Contact Us About Our Privacy Policy
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at contact@abro.et.
 
@@ -90,7 +90,7 @@ This privacy policy page was created at [privacypolicytemplate.net](https://priv
 
 We may update our Terms & Conditions from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Terms & Conditions on this page.
 
-This policy is effective as of 2022-03-10
+This terms & conditions is effective as of 2022-03-10
 
 ### Contact Us
 
