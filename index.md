@@ -6,13 +6,14 @@ This page is used to inform visitors regarding our terms & conditions with the c
 
 If you choose to use our Service, then you agree to the collection and use of information in relation to this terms & conditions. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this terms & conditions.
 
-1.1.	As Condition of Use: You agree on behalf of yourself to all the statements stated here as well as to not knowingly use our services in a way that abuses user accounts and services; transmits any harassing, fraudulent, or unlawful material; uses the service to send unauthorized advertising or spam; and/or transmits any material that may violate the intellectual property or privacy of users or the application.
+As Condition of Use: You agree on behalf of yourself to all the statements stated here as well as to not knowingly use our services in a way that abuses user accounts and services; transmits any harassing, fraudulent, or unlawful material; uses the service to send unauthorized advertising or spam; and/or transmits any material that may violate the intellectual property or privacy of users or the application.
 
-1.2.	As Terms of Payment and Fees: You agree to pay all applicable fees for the use of services based on the terms set forth in the application.
+As Terms of Payment and Fees: You agree to pay all applicable fees for the use of services based on the terms set forth in the application.
 
-1.3.	Limitation of Liability: Users will not hold Shareami, the application and/or the company, accountable for any issues, losses or damages that may occur during the sharing of their property or any use of the application.
+Limitation of Liability: Users will not hold Shareami, the application and/or the company, accountable for any issues, losses or damages that may occur during the sharing of their property or any use of the application.
 
-1.4.	Penalties for Misusing the Application: None-compliance to the conditions of use stated above can result in account deletion and/or any legal actions Abro, the application and/or the company, may wish to take within the full extent of the law.
+Penalties for Misusing the Application: None-compliance to the conditions of use stated above can result in account deletion and/or any legal actions Abro, the application and/or the company, may wish to take within the full extent of the law.
+
 
 ### Privacy Policy
 
