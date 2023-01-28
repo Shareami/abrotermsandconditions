@@ -1,6 +1,6 @@
 ## Terms & Conditions
 
-Shareami Software Design and Development Technologies built the Abro app as a Free app. This SERVICE is provided by Shareami Software Design and Development Technologies at no cost and is intended for use as is.
+Balbis Technology Solutions PLC built the Abro app as a Free app. This SERVICE is provided by Balbis Technology Solutions PLC at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our terms & conditions with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -10,14 +10,14 @@ As Condition of Use: You agree on behalf of yourself to all the statements state
 
 As Terms of Payment and Fees: You agree to pay all applicable fees for the use of services based on the terms set forth in the application.
 
-Limitation of Liability: Users will not hold Shareami, the application and/or the company, accountable for any issues, losses or damages that may occur during the sharing of their property or any use of the application.
+Limitation of Liability: Users will not hold Balbis, the application and/or the company, accountable for any issues, losses or damages that may occur during the sharing of their property or any use of the application.
 
 Penalties for Misusing the Application: None-compliance to the conditions of use stated above can result in account deletion and/or any legal actions Abro, the application and/or the company, may wish to take within the full extent of the law.
 
 
 ### Privacy Policy
 
-Shareami Software Design and Development Technologies built the Abro app as a Free app. This SERVICE is provided by Shareami Software Design and Development Technologies at no cost and is intended for use as is.
+Balbis Technology Solutions PLC built the Abro app as a Free app. This SERVICE is provided by Balbis Technology Solutions PLC at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
